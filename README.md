@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoltAtlas
+- 👋 Hi, I’m @BoltAtlas (TRISHAL PANDEY)
 - 👀 I’m interested in Learning Programing of softwares, website and all other usefull and fun applications
 - 🌱 I’m currently learning basic collage level programing languages for example Python, C++, Java, Javascript
 - 💞️ I’m looking to collaborate on Currently... just learning, not working on anything (* U *") 
