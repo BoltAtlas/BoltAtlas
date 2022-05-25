@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoltAtlas
 - 👀 I’m interested in Learning Programing of softwares, website and all other usefull and fun applications
 - 🌱 I’m currently learning basic collage level programing languages for example Python, C++, Java, Javascript
-- 💞️ I’m looking to collaborate on Currently learning 
+- 💞️ I’m looking to collaborate on Currently... just learning, not working on anything (* U *") 
 - 📫 How to reach me trishalpandey7@gmail.com
 
 <!---
